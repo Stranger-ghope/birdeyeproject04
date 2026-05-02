@@ -203,11 +203,11 @@ TrendingToken.ai monitors the Solana network in real-time to identify trending t
 **Technical Challenge**: The Birdeye API returns HTML error pages when called from Next.js server-side (Node.js environment), likely due to anti-bot measures. However, client-side calls work successfully.
 
 **Endpoints Used**:
-- `/defi/token_trending` - Works with client-side calls
-- `/defi/v2/tokens/new_listing` - Works with client-side calls
-- `/defi/token_security` - Requires premium plan (not available with free tier)
-- `/defi/token_overview` - Requires premium plan (not available with free tier)
-- `/defi/v2/tokens/top_traders` - Requires premium plan (not available with free tier)
+- ✅ `/defi/token_trending` - Works with client-side calls
+- ✅ `/defi/v2/tokens/new_listing` - Works with client-side calls
+- ❌ `/defi/token_security` - Requires premium plan (not available with free tier)
+- ❌ `/defi/token_overview` - Requires premium plan (not available with free tier)
+- ❌ `/defi/v2/tokens/top_traders` - Requires premium plan (not available with free tier)
 
 **Resolution**: The dashboard uses client-side API calls to fetch real-time trending data and new listings. This bypasses the server-side blocking and provides live data to users.
 
