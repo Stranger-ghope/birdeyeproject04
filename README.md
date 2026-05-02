@@ -2,6 +2,11 @@
 
 **Real-time Solana trending token dashboard with volume momentum and price action tracking**
 
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 ---
 
 ## 📸 Proof of Submission
@@ -39,10 +44,16 @@
 
 ## 🏆 Challenge Submission Details
 
-**Project**: TrendingToken.ai  
-**Competition**: Birdeye Sprint 2 (April 25 - May 2, 2026)  
-**Category**: Trending Token Alert Dashboard  
-**Repository**: https://github.com/Stranger-ghope/birdeyeproject04
+| Field | Value |
+|-------|-------|
+| **Project** | TrendingToken.ai |
+| **Competition** | Birdeye Sprint 2 (April 25 - May 2, 2026) |
+| **Category** | Trending Token Alert Dashboard |
+| **Live URL** | [http://localhost:3000](http://localhost:3000) |
+| **Video Demo** | Coming Soon |
+| **Tweet 1** | [View Post](https://x.com/maineine/status/2050183867164692713) |
+| **Tweet 2** | [View Post](https://x.com/maineine/status/2050483284216259067) |
+| **Github Repo** | [Stranger-ghope/birdeyeproject04](https://github.com/Stranger-ghope/birdeyeproject04) |
 
 ---
 
