@@ -17,7 +17,7 @@ type TrendingToken = {
 };
 
 const REFRESH_INTERVAL = 60_000;
-const API_KEY = process.env.NEXT_PUBLIC_BIRDEYE_API_KEY || '3f18f7818e004669af5f7e6dac1eaf09';
+const API_KEY = process.env.NEXT_PUBLIC_BIRDEYE_API_KEY;
 
 function formatNumber(num: number): string {
   if (num >= 1000000) return `$${(num / 1000000).toFixed(2)}M`;

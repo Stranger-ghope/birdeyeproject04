@@ -19,6 +19,21 @@
 
 ---
 
+## 🏆 Challenge Submission Details
+
+| Field | Value |
+|-------|-------|
+| **Project** | TrendingToken.ai |
+| **Competition** | Birdeye Sprint 2 (April 25 - May 2, 2026) |
+| **Category** | Trending Token Alert Dashboard |
+| **Live URL** | [http://localhost:3000](http://localhost:3000) |
+| **Video Demo** | [Watch Demo](https://www.youtube.com/watch?v=1ahCIAApyK4) |
+| **Tweet 1** | [View Post](https://x.com/maineine/status/2050183867164692713) |
+| **Tweet 2** | [View Post](https://x.com/maineine/status/2050483284216259067) |
+| **Github Repo** | [Stranger-ghope/birdeyeproject04](https://github.com/Stranger-ghope/birdeyeproject04) |
+
+---
+
 ## 🧩 Components
 
 ### Main Dashboard Component (`app/page.tsx`)
@@ -39,21 +54,6 @@
 - Processes and formats token data
 - Returns trending tokens with volume/price momentum
 - Currently not used (client-side calls bypass server blocking)
-
----
-
-## 🏆 Challenge Submission Details
-
-| Field | Value |
-|-------|-------|
-| **Project** | TrendingToken.ai |
-| **Competition** | Birdeye Sprint 2 (April 25 - May 2, 2026) |
-| **Category** | Trending Token Alert Dashboard |
-| **Live URL** | [http://localhost:3000](http://localhost:3000) |
-| **Video Demo** | Coming Soon |
-| **Tweet 1** | [View Post](https://x.com/maineine/status/2050183867164692713) |
-| **Tweet 2** | [View Post](https://x.com/maineine/status/2050483284216259067) |
-| **Github Repo** | [Stranger-ghope/birdeyeproject04](https://github.com/Stranger-ghope/birdeyeproject04) |
 
 ---
 
