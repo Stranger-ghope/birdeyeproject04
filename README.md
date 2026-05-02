@@ -26,7 +26,7 @@
 | **Project** | TrendingToken.ai |
 | **Competition** | Birdeye Sprint 2 (April 25 - May 2, 2026) |
 | **Category** | Trending Token Alert Dashboard |
-| **Live URL** | [http://localhost:3000](http://localhost:3000) |
+| **Live URL** | [https://birdeyeproject04.vercel.app/](https://birdeyeproject04.vercel.app/) |
 | **Video Demo** | [Watch Demo](https://www.youtube.com/watch?v=1ahCIAApyK4) |
 | **Tweet 1** | [View Post](https://x.com/maineine/status/2050183867164692713) |
 | **Tweet 2** | [View Post](https://x.com/maineine/status/2050483284216259067) |
