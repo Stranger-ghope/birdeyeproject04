@@ -4,6 +4,39 @@
 
 ---
 
+## 📸 Proof of Submission
+
+### Contest Details
+![Contest Details](./public/contestimage.webp)
+
+### API Calls Verification (50+ Required)
+![API Calls](./public/apicalls.png)
+
+---
+
+## 🧩 Components
+
+### Main Dashboard Component (`app/page.tsx`)
+- React client component for the trending token dashboard
+- Manages state for tokens, loading, error, and API call count
+- Implements auto-refresh every 60 seconds
+- Handles social sharing to X (Twitter) and Telegram
+- Displays trending tokens table with volume/price metrics
+
+### Birdeye API Client (`lib/birdeye.ts`)
+- Fetches data from Birdeye API endpoints
+- Functions for trending tokens and new listings
+- Handles API key authentication and chain selection
+- Error handling for failed requests
+
+### API Route (`app/api/tokens/route.ts`)
+- Server-side proxy for Birdeye API requests
+- Processes and formats token data
+- Returns trending tokens with volume/price momentum
+- Currently not used (client-side calls bypass server blocking)
+
+---
+
 ## 🏆 Challenge Submission Details
 
 **Project**: TrendingToken.ai  
